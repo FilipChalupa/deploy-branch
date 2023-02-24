@@ -29,6 +29,6 @@
 		"prettier": "^2.8.4"
 	},
 	"dependencies": {
-		"branch-deploy": "^0.0.5"
+		"branch-deploy": "^0.1.1"
 	}
 }
