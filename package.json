@@ -1,6 +1,6 @@
 {
 	"name": "deploy-branch",
-	"version": "0.1.1",
+	"version": "1.1.1",
 	"description": "Alias to branch-deploy package.",
 	"main": "index.js",
 	"type": "module",
